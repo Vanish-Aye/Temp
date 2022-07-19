@@ -1,4 +1,7 @@
 
+#include <string>
+#include <iostream>
+
 template <typename TempB>
 class control
 {
